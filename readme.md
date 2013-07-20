@@ -7,6 +7,7 @@ triangle shows the A^2 and B^2 and how they compare to C^2. It also shows the tr
 drawn in the original diagram, all 4 of which add up to C^2. By dragging the points
 around one can see that at 90 degrees A^2 + B^2 = C^2.
 
+![Screenshot](screenshot.png)
 
 ##License
 
